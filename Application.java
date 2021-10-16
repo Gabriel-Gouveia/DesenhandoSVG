@@ -183,7 +183,7 @@ public class Application {
                 }
             }
 
-            // O codigo abaixo faz a regra de podrucao.
+            // O codigo abaixo faz a regra de producao.
             String novaPalavra = "";
             char substituido = regra.charAt(0);
             String substituicao = "";
